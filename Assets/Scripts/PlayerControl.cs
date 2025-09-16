@@ -114,10 +114,12 @@ public class PlayerControl : MonoBehaviour
 
         if (rotationEnabled)
         {
+            
             //Animator code goes here if using Rotation Turning
         }
         else
         {
+            Debug.Log("Sup");
             //Animator code goes here if not
         }
     }
