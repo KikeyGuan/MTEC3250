@@ -472,29 +472,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   backgroundImage: {fileID: 0}
   playerVisuals:
-    animController: {fileID: 0}
+    animController: {fileID: 9100000, guid: f69d3cfee9822bb43873ca00a7a71402, type: 2}
     defaultSprite: {fileID: 0}
     color: {r: 0.14117643, g: 0.29628542, b: 1, a: 1}
-    allowPlayerRotation: 1
+    allowPlayerRotation: 0
   projectileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: -1712277564, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
     color: {r: 1, g: 0.8624264, b: 0, a: 1}
   tileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: -1072030186, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    sprite: {fileID: 887489682, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
     color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
   crateVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 136883002, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    sprite: {fileID: -957216001, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
     color: {r: 1, g: 0.540573, b: 0.23137254, a: 1}
   trapVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: -1285806108, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    sprite: {fileID: 1396967079, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
     color: {r: 1, g: 0, b: 0.36335707, a: 1}
   blockVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: -1971014597, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    sprite: {fileID: 1797520647, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
     color: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 1}
   goalVisuals:
     animController: {fileID: 0}
