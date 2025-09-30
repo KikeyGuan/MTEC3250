@@ -114,14 +114,18 @@ public class PlayerControl : MonoBehaviour
 
         if (rotationEnabled)
         {
-            
+
             //Animator code goes here if using Rotation Turning
         }
         else
         {
             Debug.Log("Sup");
+            animator.SetTrigger("shoot");
             //Animator code goes here if not
+            //shoot up and down
         }
+        
+        
     }
 
     private void EnteredTrap(Vector3 _direction)

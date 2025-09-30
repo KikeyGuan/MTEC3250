@@ -442,21 +442,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4704adf934ddd4db0a2e8a48cec0266d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 0}
+  music: {fileID: 8300000, guid: c30cb2c75f9ea8d4d8b27e76bbbe9005, type: 3}
   musicVolume: 1
   ambience: {fileID: 0}
   ambienceVolume: 1
-  playerMove: {fileID: 0}
+  playerMove: {fileID: 8300000, guid: ba07b1c595812af4e88126a85c7a61bd, type: 3}
   playerMoveVolume: 1
-  fireProjectile: {fileID: 0}
+  fireProjectile: {fileID: 8300000, guid: d8bfa34219efb6d428116d7c761bf687, type: 3}
   fireProjectileVolume: 1
-  projectileImpact: {fileID: 0}
+  projectileImpact: {fileID: 8300000, guid: e511c0afe4228ad4e9c946c16e71fc7a, type: 3}
   projectileImpactVolume: 1
-  crateDestroyed: {fileID: 0}
+  crateDestroyed: {fileID: 8300000, guid: 9feaaabc03a7aba4fa503ee5ae6a6d02, type: 3}
   crateDestroyedVolume: 1
-  enterTrap: {fileID: 0}
+  enterTrap: {fileID: 8300000, guid: d7ad82d833beca44ebb9326f3772fceb, type: 3}
   enterTrapVolume: 1
-  goalReached: {fileID: 0}
+  goalReached: {fileID: 8300000, guid: 7ff355b39603e2848a6a0877ef173617, type: 3}
   goalReachedVolume: 1
 --- !u!114 &325063152
 MonoBehaviour:
@@ -485,19 +485,19 @@ MonoBehaviour:
     sprite: {fileID: 887489682, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
     color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
   crateVisuals:
-    animController: {fileID: 0}
-    sprite: {fileID: -957216001, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    animController: {fileID: 9100000, guid: dca48d4bc737d774198d0afb19bda460, type: 2}
+    sprite: {fileID: 0}
     color: {r: 1, g: 0.540573, b: 0.23137254, a: 1}
   trapVisuals:
-    animController: {fileID: 0}
-    sprite: {fileID: 1396967079, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    animController: {fileID: 9100000, guid: 4c93a79c0cf80ab4597887326f2495de, type: 2}
+    sprite: {fileID: 0}
     color: {r: 1, g: 0, b: 0.36335707, a: 1}
   blockVisuals:
-    animController: {fileID: 0}
-    sprite: {fileID: 1797520647, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    animController: {fileID: 9100000, guid: 8c6810826b61ef6478f809707dbf1e21, type: 2}
+    sprite: {fileID: 0}
     color: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 1}
   goalVisuals:
-    animController: {fileID: 0}
+    animController: {fileID: 9100000, guid: b10fdb5ab61021a48b00eee4dd25c271, type: 2}
     sprite: {fileID: 0}
     color: {r: 0, g: 1, b: 0.7911868, a: 1}
 --- !u!114 &325063153
@@ -1041,7 +1041,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1530317876, guid: 568358eb8189944679cdd6ccb39b62fe, type: 3}
+  m_Sprite: {fileID: 1714103918, guid: 3ce992a69bb086748aba7b569a615aad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1146,14 +1146,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.28235295, g: 0.7764706, b: 0.48644352, a: 0.7607843}
+  m_Color: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 887489682, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+  m_Sprite: {fileID: 1714103918, guid: 3ce992a69bb086748aba7b569a615aad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1334,8 +1334,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bdcdd61b8710e694da75ce01370af682, type: 2}
+  m_sharedMaterial: {fileID: -6624399368021872186, guid: bdcdd61b8710e694da75ce01370af682, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1663,8 +1663,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Steps Taken
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bdcdd61b8710e694da75ce01370af682, type: 2}
+  m_sharedMaterial: {fileID: -6624399368021872186, guid: bdcdd61b8710e694da75ce01370af682, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1799,8 +1799,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Card Towers Remaining
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: bdcdd61b8710e694da75ce01370af682, type: 2}
+  m_sharedMaterial: {fileID: -6624399368021872186, guid: bdcdd61b8710e694da75ce01370af682, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
