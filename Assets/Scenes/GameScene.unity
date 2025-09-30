@@ -470,7 +470,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a8fb8ccb1a084c59a86ad73efd8ee89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundImage: {fileID: 7482667652216324306, guid: a5d8077974aef9a4981e02fabae76af1, type: 3}
+  backgroundImage: {fileID: 2261636281501055104, guid: ecb7fc980af4710409926dcf4d4b5f32, type: 3}
   playerVisuals:
     animController: {fileID: 9100000, guid: f69d3cfee9822bb43873ca00a7a71402, type: 2}
     defaultSprite: {fileID: 0}
@@ -478,7 +478,7 @@ MonoBehaviour:
     allowPlayerRotation: 0
   projectileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: -1712277564, guid: a0e9ebbc5f3ee9742a8da1762cfbd720, type: 3}
+    sprite: {fileID: -301726691507727204, guid: 3ce992a69bb086748aba7b569a615aad, type: 3}
     color: {r: 1, g: 0.8624264, b: 0, a: 1}
   tileVisuals:
     animController: {fileID: 0}
