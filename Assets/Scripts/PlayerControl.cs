@@ -121,6 +121,7 @@ public class PlayerControl : MonoBehaviour
         {
             Debug.Log("Sup");
             animator.SetTrigger("shoot");
+            //ChangeFacingDirection(_direction);
             //Animator code goes here if not
             //shoot up and down
         }
